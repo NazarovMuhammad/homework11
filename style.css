@@ -1,0 +1,160 @@
+*{
+    margin: 0px;
+}
+.m{
+    display:flex;
+
+}
+
+
+
+.m1{
+position: fixed;
+top: 0px;
+overflow: auto;
+
+ height: 100%;
+    margin-left: 10px;
+    padding-left: 10px;
+    width: 23%;
+    background-color: aqua;
+
+
+}
+
+.m1 p{
+font-size: large;
+margin-bottom: 35px;
+}
+.m1 h1{
+    margin-bottom: 5px;
+}
+
+
+.m1 a{
+    font-weight: bold;
+    font-size: large;
+    padding-bottom: 15px;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+
+}
+.a1{
+    color: white;
+    margin-top: 5px;
+    margin-bottom:25px ;
+    padding: 5px 5px;
+    background-color: green;
+}
+.a1:hover{
+background-color: cornsilk;
+color: black;
+}
+.m2{
+position: sticky;
+top: 0px;
+left: 270px;
+    width: 70%;
+    border: 1px solid black;
+}
+.m2 h1{
+    padding: 10px;
+
+    margin-left: 20px;
+}
+.m2 img{
+    width: 700px;
+    margin-left: 15px;
+}
+.m2 h4{
+   color: white;
+   background-color: black;
+   width: 90px;
+   padding: 20px 15px;
+   position: absolute;
+   top: 355px;
+    left: 15px;
+}
+.foto{
+    margin-top: 5px;
+    width: 100%;
+    display: flex;
+    margin-bottom: 30px;
+}
+.foto img{
+    width: 22%;
+}
+
+
+.p{
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 300px;
+    justify-content: space-between;
+    display: flex;
+}
+.p p{
+    font-size: larger;
+    padding-bottom: 20px;
+}
+.m2 h2{
+    padding-bottom: 15px;
+  margin-left:20px ;
+   
+}
+.p4 p{
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+button{
+    margin-left: 20px;
+    padding: 5px 50px;
+    font-size: larger;
+    background-color:#4CAF50;
+    margin-bottom: 30px;
+}
+button:hover{
+    background-color: gray;
+    color: black;
+}
+.mesta p{
+    padding-bottom: 15px;
+    padding-left: 20px;
+}
+.mesta i{
+    padding-right: 15px;
+}
+.p5{
+    padding-left: 15px;
+    font-size: larger;
+    font-weight: lighter;
+    padding-bottom: 20px;
+}
+input{
+    width: 225px;
+    font-size: large;
+}
+.m2 form{
+    margin-left: 20px;
+}
+.b1{
+    margin-left: 0px;
+}
+.ar{
+    font-size:medium;
+    font-weight: lighter;
+    display: flex;
+    margin-left: 20px;
+    padding: 15px;
+}
+.a5{
+ 
+    font-size: small;
+  
+    color: black;
+    padding-left: 3px;
+}
+.a5:hover{
+    color: #4CAF50;
+}
